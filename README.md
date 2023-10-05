@@ -5,8 +5,9 @@
 To install this project, run the following command:
 
 ```bash
-    git clone https://github.com/DRwt00/ChessHub.git
-    cd ChessHub
+git clone https://github.com/DRwt00/ChessHub.git
+
+cd ChessHub
 ```
 
 
@@ -14,13 +15,13 @@ To install this project, run the following command:
 ## Modules
 
 ```bash
-    pip install python-chess
+pip install python-chess
 
-    pip install python-chess-svg
+pip install python-chess-svg
 ```
 
 ## Startup
 
 ```bash   
-    python chessengine.py
+python3 chessengine.py
 ```
